@@ -1,0 +1,6 @@
+{
+  "name": "AURA T2",
+  "description": "ফ্রি ফায়ার টুর্নামেন্ট খেলার প্রফেশনাল অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
